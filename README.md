@@ -57,7 +57,7 @@ En este proyecto, realizaremos un reloj digital con HTML, CSS y JavaScript, en d
 
 El elemento de CSS, tendrá un efecto de animación al momento de mostrar la hora.
 
-## P06-Aplicación Presupuesto]
+## P06-Aplicación Presupuesto
 
 En este proyecto se maneja el concepto de presupuesto. Se genera el presupuesto total, además de todos los ingresos y egresos.
 
