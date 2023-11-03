@@ -8,6 +8,7 @@
 * [P04-Aplicación Listado de Personas](#appPersonas)
 * [P05-Aplicación Reloj Digital](#appReloj)
 * [P06-Aplicación Presupuesto](#appPresupuesto)
+* [P07-Herencia](#appPresupuesto)
 
 ## P01-Sistema de Ventas
 
@@ -64,3 +65,11 @@ En este proyecto se maneja el concepto de presupuesto. Se genera el presupuesto 
 Se agrega un formulario que permite añadir un egreso o egreso.
 
 Y se listan en la parte inferior de la App los ingresos y egresos respectivos.
+
+## P07-Herencia
+
+Proyecto para practicar el concepto de herencia, donde se crea:
+* clase principal o padre de persona, con constructor, getter y setters
+* clase hija de cliente, con constructor, getter y setters
+* clase hija de empleado, con constructor, getter y setters
+
